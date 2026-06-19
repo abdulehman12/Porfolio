@@ -1,10 +1,9 @@
-import React from "react";
-import Header from "./Header";
+
 import Portfolio from "../pages/Portfolio";
 import TechStack from "../pages/TechStack";
 import CaseStudy from "../pages/CaseStudy";
 import Contact from "../pages/Contact";
-import Footer from "./Footer";
+
 import About from "../pages/About";
 import Projects from "../pages/Projects";
 
